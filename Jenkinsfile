@@ -1,4 +1,4 @@
-
+echo 'Automatic build triggered after GitHub change!'
 pipeline {
     agent any
 
