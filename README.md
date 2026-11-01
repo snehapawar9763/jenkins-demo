@@ -1,3 +1,4 @@
+echo 'Automatic build triggered after GitHub change!'
 cat > Jenkinsfile <<'EOF'
 
 pipeline {
